@@ -2,7 +2,7 @@
 trajectory surface hopping with machine learning
 
 Main Contributors at the current stage
-Deping Hu (hudp@qibebt.ac.cn or hdplly2016@gmail.com) Zhenggang Lan* (lanzg@qibebt.ac.cn) Yu Xie (Xieyu@qibebt.ac.cn) Xusong Li (lixs@qibebt.ac.cn)
+Deping Hu (hudp@qibebt.ac.cn) Zhenggang Lan* (lanzg@qibebt.ac.cn) Yu Xie (xieyu@qibebt.ac.cn) Xusong Li (lixs@qibebt.ac.cn)
 
 
 TSH-ML package reference: 
